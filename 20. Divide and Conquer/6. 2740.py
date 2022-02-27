@@ -1,3 +1,12 @@
+"""
+Aim:    Multiplication of matrix.
+Input:  The first line is given the size N and M of the matrix A.
+        From the second line, M elements of matrix A are given in order in N lines.
+        The next line is given the size M and K of the matrix B.
+        Subsequently, K elements of matrix B are given in sequence in M rows.
+Output: A matrix multiplied by a matrix A and B in N lines.
+"""
+
 import sys
 
 # Input

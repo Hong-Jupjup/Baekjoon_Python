@@ -1,3 +1,10 @@
+"""
+Aim:    Similar to a quadtree, but divide it into 9 instead of 4.
+Input:  The first line is given N(1<=N<=3^7, N is 3^k).
+        The next N lines are given N integers.
+Output: The numbers of papers filled with only -1, 0 and 1.
+"""
+
 import sys
 
 # Input
