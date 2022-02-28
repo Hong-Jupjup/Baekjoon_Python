@@ -1,3 +1,9 @@
+"""
+Aim:    Find all the sequences that have numbers from 1 to N without overlapping.
+Input:  N and M.
+Output: Sequences that are sorted in ascending order and meet the conditions.
+"""
+
 import sys
 
 def dfs():
