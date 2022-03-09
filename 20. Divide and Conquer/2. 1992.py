@@ -4,7 +4,7 @@ Input:  The size of the image(N).
         N can be 2, 4, 8, 16, 32 or 64.
         N strings of N.
         Each string consists of 0 or 1, indicating each point in the image. 
-"""
+""" 
 
 import sys
 
